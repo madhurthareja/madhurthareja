@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @MadhurThareja
 -  I’m interested in WebDev and Competitive Programming
--  I’m currently learning HTML,CSS,C,C++
+-  Working on Command Line Interface
+-  Ask me about: Java, C, Python, HTML
+-  I’m currently learning C++, Scientific Python
 -  I’m looking to collaborate on projects aligning with my interests.
--  How to reach me:- madhurthareja1105@gmail.com
--  Pronouns: he/him.
+-  How to contact me:- madhurthareja1105@gmail.com
 
 <!---
 MadhurThareja01/MadhurThareja01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
