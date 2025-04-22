@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Madhur Thareja</h1>
 <h3 align="center">A passionate student and programmer</h3>
 
-- 🔭 I’m currently working on **Computational Statistics**
+- 🔭 I’m currently working on **Data Analytics and Computer Vision**
 
-- 🌱 I’m currently learning **Object Oriented Programming, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Diffusion Models, Large Language Models and Image Processing**
 
-- 👯 I’m looking to collaborate on [Simplex Project GUI](https://github.com/madhurthareja/simplex)
+- 👯 I’m looking to collaborate on project if you're interested.
 
-- 🤝 I’m looking for help with **Front-End for my projects**
-
-- 💬 Ask me about **C,C++,Java,Python,Bash,Shell Scripting**
+- 💬 Ask me about **Machine Learning, Deep learning or PINNs**
 
 - 📫 How to reach me **madhurthareja1105@gmail.com**
 
